@@ -1,44 +1,32 @@
 class MyStack {
 public:
     queue<int> q;
-    int last;
+    int peek = -1;
     MyStack() {
         
     }
     
     void push(int x) {
+        peek = x;
         q.push(x);
     }
     
     int pop() {
         int sz = q.size()-1;
         
-        while(sz > 0) {
-            // cout<<"inserted at back: "<<q.front()<<endl;
-            q.push(q.front());
+        while(sz--) {
+            peek = q.front();
+            q.push(peek);
             q.pop();
-            sz--;
         }
         
         int ans = q.front();
         q.pop();
-        // cout<<"sz: "<<q.size()<<endl;
         return ans;
     }
     
     int top() {
-        int sz = q.size()-1;
-        
-        while(sz > 0) {
-            q.push(q.front());
-            q.pop();
-            sz--;
-        }
-        
-        int ans = q.front();
-        q.pop();
-        q.push(ans);
-        return ans;
+        return peek;
     }
     
     bool empty() {
