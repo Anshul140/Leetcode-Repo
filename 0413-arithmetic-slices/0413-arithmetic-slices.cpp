@@ -1,0 +1,21 @@
+class Solution {
+public:
+    // int dp[5005];
+    int solve(int i, vector<int>& nums) {
+        return 0;
+    }
+    int numberOfArithmeticSlices(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n+2);
+        
+        int res = 0;
+        for(int i = 2; i<n; i++) {
+            if(nums[i] - nums[i-1] == nums[i-1] - nums[i-2]) {
+                dp[i] = 1 + dp[i-1];
+                res += dp[i];
+            }
+        }
+        
+        return res;
+    }
+};
