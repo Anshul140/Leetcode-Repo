@@ -6,8 +6,7 @@ public:
         
         for(int i = 0; i<n; i++) {
             for(int j = 0; j<i; j++) {
-                long a = nums[j], b = nums[i];
-                long diff = a-b;
+                long diff = (long)nums[j] - long(nums[i]);
                 ans += dp[j][diff];
                 dp[i][diff] += dp[j][diff];
                 dp[i][diff]++;
