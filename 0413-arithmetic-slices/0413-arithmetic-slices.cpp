@@ -1,9 +1,5 @@
 class Solution {
 public:
-    // int dp[5005];
-    int solve(int i, vector<int>& nums) {
-        return 0;
-    }
     int numberOfArithmeticSlices(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n+2);
