@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        vector<vector<int>> ans;
         set<int> tot;
         unordered_map<int, int> mp;
         
@@ -21,8 +20,6 @@ public:
             }
         }
         
-        ans.push_back(w);
-        ans.push_back(l);
-        return ans;
+        return {w,l};
     }
 };
