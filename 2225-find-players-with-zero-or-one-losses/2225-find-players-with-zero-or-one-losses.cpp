@@ -3,7 +3,7 @@ public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         vector<vector<int>> ans;
         set<int> tot;
-        map<int, int> mp;
+        unordered_map<int, int> mp;
         
         for(auto &it: matches) {
             mp[it[1]]++;
