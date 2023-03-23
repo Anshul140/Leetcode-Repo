@@ -47,17 +47,10 @@ public:
            return;
            
         if(root->data == tar) {
-            // cout<<"f-changed here: "<<root->data<<endl;
             f = 1;
-            
             if(root->right == NULL and root->left == NULL) {
-                // cout<<"leaf: "<<root->data<<endl;
-                // cout<<"s1: "<<s1<<" s2: "<<s2<<endl;
-                // cout<<"found ? "<<f<<endl<<endl;
                 if(f == 1) {
-                    // s2 += root->data;
                     ans = max(ans, s1-s2);
-                    // s2 -= root->data;
                 }
                 f = 0;
                 return;
@@ -95,12 +88,9 @@ public:
             s2 -= root->data;
         }
     }
+    
     int maxDifferenceBST(Node *root,int target){
         // Code here
-        // int ans = INT_MIN;
-        
-        // if(root->data == target) return -1;
-        
         tar = target;
         f = 0;
         s1 = s2 = 0;
