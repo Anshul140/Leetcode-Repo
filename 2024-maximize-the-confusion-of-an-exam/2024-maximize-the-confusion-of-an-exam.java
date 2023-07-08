@@ -8,22 +8,15 @@ class Solution {
     public int calculate(String str, int k, char ch) {
         int i = 0, j = 0, ans = 1, ct = 0, len = str.length();
         int ws = 0;
-        //Queue<Character> q = new LinkedList<>();
         
         while(j < len) {
-            //q.offer(str.charAt(j));
-            if(str.charAt(j) == ch) {
-                ws++;
-            }
+            if(str.charAt(j) == ch) ws++;
             
             if(ws <= k) {
-                // ans = Math.max(ans, q.size());
                 ans = Math.max(ans, j - i + 1);
             } else {
                 while(ws > k) {
-                    if(str.charAt(i) == ch) {
-                        ws--;
-                    }
+                    if(str.charAt(i) == ch) ws--;
                     i++;
                 }
             }
@@ -35,11 +28,9 @@ class Solution {
     public int maxConsecutiveAnswers(String str, int k) {
         // convert T -> F
         int ans1 = calculate(str, k, 'T');
-        System.out.println("ans1: "+ans1);
         
         // convert F -> T
         int ans2 = calculate(str, k, 'F');
-        System.out.println("ans2: "+ans2);
         
         return Math.max(ans1, ans2);
     }
