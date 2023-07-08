@@ -8,20 +8,23 @@ class Solution {
     public int calculate(String str, int k, char ch) {
         int i = 0, j = 0, ans = 1, ct = 0, len = str.length();
         int ws = 0;
-        Queue<Character> q = new LinkedList<>();
+        //Queue<Character> q = new LinkedList<>();
         
         while(j < len) {
-            q.offer(str.charAt(j));
+            //q.offer(str.charAt(j));
             if(str.charAt(j) == ch) {
                 ws++;
             }
             
             if(ws <= k) {
-                ans = Math.max(ans, q.size());
+                // ans = Math.max(ans, q.size());
+                ans = Math.max(ans, j - i + 1);
             } else {
                 while(ws > k) {
-                    char c = q.poll();
-                    if(c == ch) ws--;
+                    if(str.charAt(i) == ch) {
+                        ws--;
+                    }
+                    i++;
                 }
             }
             j++;
