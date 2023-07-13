@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    Set<Integer> set = new HashSet<>();
     int depth = 0;
     int ans = Integer.MAX_VALUE;
     
