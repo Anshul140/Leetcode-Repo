@@ -4,7 +4,7 @@ public:
         unordered_map<int, int> dp;
         int ans = 1;
         
-        for(int el: arr) {
+        for(int &el: arr) {
             if(dp.count(el - difference)) {
                 int prev = dp[el - difference];
                 ans = max(ans, prev+1);
