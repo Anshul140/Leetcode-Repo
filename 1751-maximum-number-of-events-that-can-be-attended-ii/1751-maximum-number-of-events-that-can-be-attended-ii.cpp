@@ -8,7 +8,7 @@ public:
     }
     
     // checks if x and y lie in between a and b
-    bool isOverlap(int a, int b, int x, int y) {
+    bool isOverlap(int &a, int &b, int &x, int &y) {
         if(x > b and y > b) return false;
         if(x < a and y < a) return false;
         
