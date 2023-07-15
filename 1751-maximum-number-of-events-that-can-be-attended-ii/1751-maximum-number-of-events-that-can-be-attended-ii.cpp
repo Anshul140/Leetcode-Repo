@@ -1,7 +1,6 @@
 class Solution {
 public:
     int n;
-    int ans = 0;
     unordered_map<string, int> dp;
     
     static bool compare(const vector<int>& a, const vector<int>& b) {
@@ -39,7 +38,6 @@ public:
             int cStart = events[cidx][0], cEnd = events[cidx][1];
             
             if(!isOverlap(pStart, pEnd, cStart, cEnd)) {
-                // cout<<"Inside take block - 2..."<<endl;
                 take = events[cidx][2] + solve(cidx+1, cidx, cnt-1, events);
             }
         }
