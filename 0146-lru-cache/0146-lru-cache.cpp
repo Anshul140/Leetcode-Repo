@@ -54,13 +54,14 @@ public:
     }
     
     void put(int key, int value) {
-        // if key-value already exists
+        // if key-value already exists, then delete current position, and update with new value and position
         if(cache.count(key)) {
             Node* t = cache[key];
             deleteNode(t);
             cache.erase(t->key);
         }
         
+        // cache size full, hence delete LRU key
         if(cache.size() == sz) {
             // delete LRU key
             cache.erase(last->front->key);
