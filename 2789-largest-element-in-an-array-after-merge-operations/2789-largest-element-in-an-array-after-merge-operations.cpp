@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long maxArrayValue(vector<int>& nums) {
-        long long ans = 0;
         stack<long long> st;
         int n = nums.size();
         
