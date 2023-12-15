@@ -6,7 +6,7 @@ public:
         int ans;
         while(lo <= hi) {
             mid = (lo + hi) >> 1;
-            long cdays = 1, cw = 0, f = 1;
+            int cdays = 1, cw = 0, f = 1;
             for(int i = 0; i<n; i++) {
                 if(weights[i] > mid) {
                     f = 0;
