@@ -1,7 +1,7 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        long lo = *max_element(weights.begin(), weights.end()), hi = 1e9, mid, n = weights.size();
+        int lo = 1, hi = 1e9, mid, n = weights.size();
         // cout<<endl<<endl<<endl;
         int ans;
         while(lo <= hi) {
