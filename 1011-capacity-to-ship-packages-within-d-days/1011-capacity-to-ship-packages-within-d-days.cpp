@@ -1,8 +1,8 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int lo = 1, hi = 1e9, mid, n = weights.size();
-        // cout<<endl<<endl<<endl;
+        int lo = 1, hi = 1e8, mid, n = weights.size();
+        
         int ans;
         while(lo <= hi) {
             mid = (lo + hi) >> 1;
