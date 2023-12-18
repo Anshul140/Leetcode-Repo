@@ -2,6 +2,9 @@ class FoodRatings {
 public:
     unordered_map<string, set<pair<int, string>>> cuisine_rat_food; // cuisine, rating-food
     unordered_map<string, string> food_cuisine;
+    
+    // this is the hidden technique -> by using this map we are saving reordering of set logic
+    // using this map, we can directly get food rating
     unordered_map<string, int> food_rat;
     
     FoodRatings(vector<string>& foods, vector<string>& cui, vector<int>& rat) {
