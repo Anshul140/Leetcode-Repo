@@ -9,8 +9,7 @@ public:
         int diff = 0;
         for(int i = 1; i<points.size(); i++) {
             // cout<<"x: "<<points[i][0]<<"  y: "<<points[i][1]<<endl;
-            int cd = points[i][0]-points[i-1][0];
-            diff = max(diff, cd);
+            if(points[i][0]-points[i-1][0] > diff) diff = points[i][0]-points[i-1][0];
         }
         
         return diff;
