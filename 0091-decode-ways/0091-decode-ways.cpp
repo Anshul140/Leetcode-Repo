@@ -10,7 +10,6 @@ public:
         if(dp[i] != -1)
            return dp[i];
 
-        int ans = 0;
         for(int j = i; j<n; j++) {
             if(j+1 < n && s[j] == '1') 
                 return dp[i] = solve(j+1, s) + solve(j+2, s);
