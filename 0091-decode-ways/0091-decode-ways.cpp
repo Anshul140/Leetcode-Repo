@@ -25,7 +25,7 @@ public:
 
     int numDecodings(string s) {
         n = s.size();
-        dp.assign(500, -1);
+        dp.assign(105, -1);
         return solve(0, s);
     }
 };
