@@ -1,13 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        set<int> players, win, lose;
+        set<int> players;
         map<int, int> mp;
         for(auto &it: matches) {
             players.insert(it[0]);
             players.insert(it[1]);
-            win.insert(it[0]);
-            lose.insert(it[1]);
             mp[it[1]]++;
         }
         
@@ -15,7 +13,7 @@ public:
         vector<vector<int>> ans;
         
         for(auto &it: players) {
-            if(!lose.count(it)) {
+            if(!mp.count(it)) {
                 ans1.push_back(it);
             }
         }
