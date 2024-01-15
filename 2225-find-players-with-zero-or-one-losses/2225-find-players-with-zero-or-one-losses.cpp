@@ -18,14 +18,14 @@ public:
             }
         }
         
-        for(auto it: mp) {
+        for(auto &it: mp) {
             if(it.second == 1) {
                 ans2.push_back(it.first);
             }
         }
         
-        sort(ans1.begin(), ans1.end());
-        sort(ans2.begin(), ans2.end());
+        //sort(ans1.begin(), ans1.end());
+        //sort(ans2.begin(), ans2.end());
         
         ans.push_back(ans1);
         ans.push_back(ans2);
