@@ -5,9 +5,7 @@ public:
         int ans = -1;
         
         while(l < r) {
-            int h = min(height[l], height[r]);
-            int cans = h * (r-l);
-            ans = max(ans, cans);
+            ans = max(ans, min(height[l], height[r]) * (r-l));
             
             if(height[l] <= height[r]) {
                 l++;
