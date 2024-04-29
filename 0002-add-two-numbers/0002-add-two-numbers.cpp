@@ -27,16 +27,6 @@ public:
         return prev;
     }
     
-    void print(ListNode* t) {
-        while(t) {
-            cout<<t->val<<"  ";
-            t = t->next;
-        }
-        
-        cout<<endl;
-    }
-    
-    
     ListNode* addTwoNumbers(ListNode* s1, ListNode* s2) {
         // ListNode *s1 = reverse(l1), *s2 = reverse(l2);
         // print(s1);
