@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+## Greedy
+|  |
+| ------- |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+## Sorting
+|  |
+| ------- |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 <!---LeetCode Topics End-->
