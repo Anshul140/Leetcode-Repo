@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
