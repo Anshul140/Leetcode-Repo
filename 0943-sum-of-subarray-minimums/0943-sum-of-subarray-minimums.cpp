@@ -1,3 +1,12 @@
+/*
+- calculate psee (previous smaller equal element)
+- calculate nse 
+- for each index:
+    - count number of subarrays for current element will be min
+    - #subarrays = (nse[i] - i)*(i - pse[i])
+    - ans += (#subarrays)*(current element) % mod 
+*/
+
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& nums) {
