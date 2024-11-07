@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Matrix
 |  |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -96,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
