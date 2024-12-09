@@ -1,26 +1,30 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        int i = 0, j = 0;
-        int ans = 0;
-        
         map<char, int> mp;
-        
-        while(j < n) {
+        int ans = 1;
+        int i = 0, j = 0, n = s.size();
+        if(!n) return 0;
+
+        while(j < n){
             mp[s[j]]++;
-            if(mp.size() == (j-i+1)) {
-                ans = max(ans, j-i+1);
+            if(mp.size() == (j - i + 1)){
+                // no repeating characters
+                int cans = mp.size();
+                ans = max(ans, cans);
             } else {
-                while(mp.size() < j-i+1){
+                // repeating characters present, hence map size less than window size
+                while(mp.size() < (j - i + 1)){
                     mp[s[i]]--;
                     if(mp[s[i]] == 0) mp.erase(s[i]);
                     i++;
                 }
+                int cans = mp.size();
+                ans = max(ans, cans);
             }
             j++;
         }
-        
+
         return ans;
     }
 };
