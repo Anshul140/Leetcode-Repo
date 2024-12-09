@@ -54,12 +54,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
@@ -112,5 +114,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
