@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
+| [2050-count-good-numbers](https://github.com/Anshul140/Leetcode-Repo/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshul140/Leetcode-Repo/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Anshul140/Leetcode-Repo/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
