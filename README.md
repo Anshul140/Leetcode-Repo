@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Anshul140/Leetcode-Repo/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
