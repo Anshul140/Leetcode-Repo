@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
@@ -163,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
