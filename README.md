@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
+| [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sliding Window
 |  |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
