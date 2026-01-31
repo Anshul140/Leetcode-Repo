@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Anshul140/Leetcode-Repo/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -178,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
