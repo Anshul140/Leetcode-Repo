@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshul140/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Anshul140/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Anshul140/Leetcode-Repo/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshul140/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Anshul140/Leetcode-Repo/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
