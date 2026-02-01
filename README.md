@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshul140/Leetcode-Repo/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
 | ------- |
