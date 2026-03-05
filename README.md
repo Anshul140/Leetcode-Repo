@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshul140/Leetcode-Repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Stack
 |  |
 | ------- |
