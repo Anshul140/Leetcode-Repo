@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0784-letter-case-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshul140/Leetcode-Repo/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0784-letter-case-permutation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0784-letter-case-permutation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anshul140/Leetcode-Repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0051-n-queens](https://github.com/Anshul140/Leetcode-Repo/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
 | ------- |
