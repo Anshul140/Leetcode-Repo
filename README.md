@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshul140/Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Sorting
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
+| [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
