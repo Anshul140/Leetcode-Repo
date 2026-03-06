@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anshul140/Leetcode-Repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
