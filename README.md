@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshul140/Leetcode-Repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshul140/Leetcode-Repo/tree/master/1940-maximum-xor-for-each-query) |
+| [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0784-letter-case-permutation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anshul140/Leetcode-Repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshul140/Leetcode-Repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
+| [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Linked List
 |  |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0140-word-break-ii) |
 | [0784-letter-case-permutation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0784-letter-case-permutation) |
+| [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
