@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/Anshul140/Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anshul140/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Anshul140/Leetcode-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Anshul140/Leetcode-Repo/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshul140/Leetcode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anshul140/Leetcode-Repo/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Anshul140/Leetcode-Repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshul140/Leetcode-Repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -227,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
@@ -250,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshul140/Leetcode-Repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anshul140/Leetcode-Repo/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
