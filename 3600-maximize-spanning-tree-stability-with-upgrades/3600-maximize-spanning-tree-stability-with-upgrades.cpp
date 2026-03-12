@@ -1,98 +1,92 @@
-class DSU {
-public:
-    vector<int> parent, rankv;
-    int components;
-
-    DSU(int n) {
-        parent.resize(n);
-        rankv.assign(n, 0);
-        iota(parent.begin(), parent.end(), 0);
-        components = n;
-    }
-
-    int find(int x) {
-        if (parent[x] != x) parent[x] = find(parent[x]);
-        return parent[x];
-    }
-
-    bool unite(int a, int b) {
-        a = find(a);
-        b = find(b);
-
-        if (a == b) return false;
-
-        if (rankv[a] < rankv[b]) swap(a, b);
-        parent[b] = a;
-        if (rankv[a] == rankv[b]) rankv[a]++;
-
-        components--;
-        return true;
-    }
-};
-
 class Solution {
 public:
-    bool canAchieve(int n, vector<vector<int>>& edges, int k, int x) {
+    vector<vector<int>> ones, zeros;
+    int k;
+    int n;
+
+    struct DSU{
+        int n, c;
+        vector<int> p, s;
+
+        DSU(int N) {
+            n = N;
+            c = N;
+            p.resize(n+1);
+            s.resize(n+1);
+
+            for(int i = 0; i<n; i++) {
+                p[i] = i;
+                s[i] = 1;
+            }
+        }
+
+        int find(int x) {
+            while(x != p[x]) x = p[x];
+            return x;
+        }
+
+        bool same(int x, int y) {
+            return find(x) == find(y);
+        }
+
+        void unite(int x, int y) {
+            x = find(x);
+            y = find(y);
+
+            if(s[y] > s[x]) swap(x, y);
+
+            s[x] += s[y];
+            p[y] = x;
+            c--;
+        }
+    };
+
+    int maxStability(int N, vector<vector<int>>& edges, int K) {
+        k = K;
+        n = N;
+
         DSU dsu(n);
-
-        // 1. Mandatory edges must be included
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
-
-            if (must == 1) {
-                if (s < x) return false;          // mandatory edge too weak
-                if (!dsu.unite(u, v)) return false; // mandatory cycle
-            }
-        }
-
-        // 2. Use all free optional edges
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
-
-            if (must == 0 && s >= x) {
-                dsu.unite(u, v);
-            }
-        }
-
-        // 3. Use upgradeable optional edges if needed
-        int usedUpgrades = 0;
-
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
-
-            if (must == 0 && s < x && 2 * s >= x) {
-                if (dsu.unite(u, v)) {
-                    usedUpgrades++;
-                    if (usedUpgrades > k) return false;
+        int ans = INT_MAX;
+        for(auto it: edges) {
+            if(it[3]) {
+                if(!dsu.same(it[0], it[1])) {
+                    dsu.unite(it[0], it[1]);
+                    ans = min(ans, it[2]);
                 }
+                else return -1;
+            }
+            else {
+                zeros.push_back(it);
             }
         }
 
-        return dsu.components == 1;
-    }
+        // sort(ones.begin(), ones.end(), [](const vector<int>& a, const vector<int>& b) {
+        //     return (a[2] > b[2]);
+        // });
 
-    int maxStability(int n, vector<vector<int>>& edges, int k) {
-        // Early check: mandatory edges alone must not form a cycle
-        {
-            DSU dsu(n);
-            for (auto &e : edges) {
-                if (e[3] == 1) {
-                    if (!dsu.unite(e[0], e[1])) return -1;
-                }
+        sort(zeros.begin(), zeros.end(), [](const vector<int>& a, const vector<int>& b) {
+            return (a[2] > b[2]);
+        });
+
+        vector<int> used;
+
+        for(auto it: zeros) {
+            if(!dsu.same(it[0], it[1])) {
+                dsu.unite(it[0], it[1]);
+                used.push_back(it[2]);
             }
         }
 
-        int low = 1, high = 200000, ans = -1;
+        int idx = used.size() - 1;
+        while(k-- and idx >= 0) {
+            ans = min(ans, 2*used[idx]);
+            idx--;
+        }
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        if(dsu.c != 1) return -1;
 
-            if (canAchieve(n, edges, k, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+        if(idx >= 0) {
+            return min(ans, used[idx]);
         }
 
         return ans;
