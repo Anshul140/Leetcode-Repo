@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anshul140/Leetcode-Repo/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshul140/Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anshul140/Leetcode-Repo/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
 ## Tree
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Anshul140/Leetcode-Repo/tree/master/2050-count-good-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -252,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshul140/Leetcode-Repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
 |  |
 | ------- |
