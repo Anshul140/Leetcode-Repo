@@ -1,21 +1,55 @@
 class Solution {
 public:
-    string getHappyString(int n, int k) {
-        int sz = pow(2, n - 1);
-        if (3 * sz < k) return "";
+    multiset<string> ms;
+    int n;
 
-        string res = "";
-        if (k <= sz){ res += 'a'; }
-        else if (k <= 2*sz){ res += 'b'; k -= sz; }
-        else { res += 'c'; k -= 2*sz; }
-
-        string opts[] = {"bc", "ac", "ab"};
-        for (int i = 1; i < n; i++) {
-            sz /= 2;
-            string& ch = opts[res.back() - 'a'];
-            if (k <= sz) res += ch[0];
-            else        { res += ch[1]; k -= sz; }
+    void solve(char prev, int i, string t) {
+        if(i == n) {
+            ms.insert(t);
+            return;
         }
-        return res;
+
+        if(prev == 'a') {
+            t.push_back('b');
+            solve('b', i+1, t);
+
+            t.pop_back();
+            t.push_back('c');
+            solve('c', i+1, t);
+        } 
+        else if (prev == 'b') {
+            t.push_back('c');
+            solve('c', i+1, t);
+
+            t.pop_back();
+            t.push_back('a');
+            solve('a', i+1, t);
+        }
+        else if(prev == 'c') {
+            t.push_back('a');
+            solve('a', i+1, t);
+
+            t.pop_back();
+            t.push_back('b');
+            solve('b', i+1, t);
+        }
+    }
+
+    string getHappyString(int N, int k) {
+        string s = "";
+        n = N;
+
+        solve('a', 1, "a");
+        solve('b', 1, "b");
+        solve('c', 1, "c");
+
+        int itr = 1;
+        for(auto it: ms) {
+            // cout<<it<<" ";
+            if(itr == k) return it;
+            itr++;
+        }
+        // cout<<endl;
+        return s;
     }
 };
