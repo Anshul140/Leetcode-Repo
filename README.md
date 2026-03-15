@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anshul140/Leetcode-Repo/tree/master/0146-lru-cache) |
+| [1622-fancy-sequence](https://github.com/Anshul140/Leetcode-Repo/tree/master/1622-fancy-sequence) |
 | [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
 ## Doubly-Linked List
 |  |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Anshul140/Leetcode-Repo/tree/master/1622-fancy-sequence) |
 | [2050-count-good-numbers](https://github.com/Anshul140/Leetcode-Repo/tree/master/2050-count-good-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Union Find
@@ -292,4 +294,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anshul140/Leetcode-Repo/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Anshul140/Leetcode-Repo/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
