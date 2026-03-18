@@ -1,30 +1,31 @@
 class Solution {
 public:
-    static int countSubmatrices(vector<vector<int>>& grid, int k) {
-        const int r=grid.size(), c=grid[0].size();
-        int cnt=0, brCol=c;
-        if (grid[0][0]>k) return 0;// early stop
-        cnt++;
-        for(int j=1; j<c; j++){
-            int& x=grid[0][j];
-            x+=grid[0][j-1];
-            if(x>k)// no need for computing for the rest cols
-                { brCol=j; break;}
-            cnt++;
+    int countSubmatrices(vector<vector<int>>& grid, int k) {
+        int n = grid.size(), m = grid[0].size();
+        vector<vector<int>> ps(n, vector<int>(m));
+
+        ps[0][0] = grid[0][0];
+        int ans = 0;
+        if(ps[0][0] <= k) ans++;
+
+        for(int i = 1; i<n; i++) {
+            ps[i][0] = ps[i-1][0] + grid[i][0];
+            if(ps[i][0] <= k) ans++;
         }
-        for(int i=1; i<r; i++){
-            grid[i][0]+=grid[i-1][0];
-            if (grid[i][0]>k) break;
-            cnt++;
-            for(int j=1; j<brCol; j++){
-                int& x=grid[i][j];
-                x+=grid[i-1][j]+grid[i][j-1]-grid[i-1][j-1];
-                if (x>k){
-                    brCol=j; break;
-                }
-                cnt++;
+
+        for(int j = 1; j<m; j++) {
+            ps[0][j] = ps[0][j-1] + grid[0][j];
+            if(ps[0][j] <= k) ans++;
+        }
+
+        for(int i = 1; i<n; i++) {
+            for(int j = 1; j<m; j++) {
+                ps[i][j] += grid[i][j] + ps[i-1][j] + ps[i][j-1] - ps[i-1][j-1];
+                if(ps[i][j] <= k)
+                    ans++;
             }
         }
-        return cnt;
+
+        return ans;
     }
 };
