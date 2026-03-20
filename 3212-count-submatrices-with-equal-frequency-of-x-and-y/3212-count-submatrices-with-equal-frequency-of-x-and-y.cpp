@@ -9,7 +9,7 @@ public:
         // cnt of 'X'
         vector<vector<int>> cnt(n+1, vector<int>(m+1));
 
-        map<char, int> mp;
+        unordered_map<char, int> mp;
         mp['X'] = 1;
         mp['Y'] = -1;
         mp['.'] = 0;
