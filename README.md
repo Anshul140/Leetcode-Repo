@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anshul140/Leetcode-Repo/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bitmask
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anshul140/Leetcode-Repo/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshul140/Leetcode-Repo/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
 ## String
 |  |
