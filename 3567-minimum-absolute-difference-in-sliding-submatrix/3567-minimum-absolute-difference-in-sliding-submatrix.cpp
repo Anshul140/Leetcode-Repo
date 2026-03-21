@@ -10,11 +10,9 @@ public:
             if(itr == 0) {
                 itr++;
                 last = el;
-                cout<<"el: "<<el<<endl;
                 continue;
             }
 
-            cout<<"last: "<<last<<" el: "<<el<<endl;
             ans = min(ans, abs(last - el));
             last = el;
         }
@@ -37,10 +35,7 @@ public:
                     }
                 }
 
-                if(cur.size() == 0) {
-                    cout<<"set size 0"<<endl;
-                    continue;
-                }
+                if(cur.size() == 0) continue;
                 int res = solve(cur);
                 ans[i][j] = res;
             }
