@@ -1,39 +1,52 @@
 class Solution {
 public:
-    vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
-        int n = grid.size(), m = grid[0].size();
-        vector<vector<int>> ans(n - k + 1, vector<int>(m - k + 1));
-        for (int i = 0; i <= n - k; i++) {
-            map<int, int> mp;
-            for (int r = i; r < i + k; r++) {
-                for (int c = 0; c < k; c++) {
-                    mp[grid[r][c]]++;
-                }
-            }
-            for (int c = 0; c <= m - k; c++) {
-                if (mp.size() > 1) {
-                    int mini = 1e9;
-                    auto it = mp.begin();
-                    int prev = it->first;
-                    for (++it; it != mp.end(); it++) {
-                        mini = min(mini, abs(it->first - prev));
-                        prev = it->first;
-                    }
-                    ans[i][c] = mini;
-                } else {
-                    ans[i][c] = 0;
-                }
+    int solve(set<int>& arr) {
+        if(arr.size() == 1) return 0;
+        int ans = INT_MAX;
 
-                if (c < m - k) {
-                    for (int r = i; r < i + k; r++) {
-                        mp[grid[r][c]]--;
-                        if (mp[grid[r][c]] == 0)
-                            mp.erase(grid[r][c]);
-                        mp[grid[r][c + k]]++;
-                    }
-                }
+        int itr = 0;
+        int last = 0;
+        for(auto el: arr) {
+            if(itr == 0) {
+                itr++;
+                last = el;
+                cout<<"el: "<<el<<endl;
+                continue;
             }
+
+            cout<<"last: "<<last<<" el: "<<el<<endl;
+            ans = min(ans, abs(last - el));
+            last = el;
         }
+
         return ans;
     }
+
+    vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
+        int m = grid.size(), n = grid[0].size();
+        int al = m-k+1, ab = n-k+1;
+
+        vector<vector<int>> ans(al, vector<int>(ab));
+
+        for(int i = 0; i<(m-k+1); i++) {
+            for(int j = 0; j<(n-k+1); j++) {
+                set<int> cur;
+                for(int x = i; x<m && x<=(i+k-1); x++) {
+                    for(int y = j; y<n && y<=(j+k-1); y++) {
+                        cur.insert(grid[x][y]);
+                    }
+                }
+
+                if(cur.size() == 0) {
+                    cout<<"set size 0"<<endl;
+                    continue;
+                }
+                int res = solve(cur);
+                ans[i][j] = res;
+            }
+        }
+
+        return ans;
+    }
+
 };
