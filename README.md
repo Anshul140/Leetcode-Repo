@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshul140/Leetcode-Repo/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshul140/Leetcode-Repo/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bitmask
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Anshul140/Leetcode-Repo/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshul140/Leetcode-Repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/0777-swap-adjacent-in-lr-string) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshul140/Leetcode-Repo/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
