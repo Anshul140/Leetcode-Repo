@@ -24,8 +24,10 @@ public:
             cout<<endl;
         }
 
+        if(mat == target) return true;
+
         cout<<"rotated matrix: "<<endl;
-        for(int i = 0; i<4; i++) {
+        for(int i = 0; i<3; i++) {
             vector<vector<int>> t = rotate(mat);
             for(int i = 0; i<mat.size(); i++) {
                 for(int j = 0; j<mat.size(); j++) {
