@@ -19,23 +19,15 @@ public:
             }
         }
 
-        // bool ans = false;
-        // horizontal cuts
-        cout<<"horizontal cuts"<<endl;
         for(int i = 0; i<m-1; i++) {
             long long top = ps[i][n-1];
             long long bottom = ps[m-1][n-1] - top;
-            cout<<"top: "<<top<<" bottom: "<<bottom<<endl;
             if(top == bottom) return true;
         }
-
-        cout<<endl;
-        cout<<"vertical cuts"<<endl;
 
         for(int j = 0; j<n-1; j++) {
             long long left = ps[m-1][j];
             long long right = ps[m-1][n-1] - left;
-            cout<<"left: "<<left<<" right: "<<right<<endl;
             if(left == right) return true;
         }
 
