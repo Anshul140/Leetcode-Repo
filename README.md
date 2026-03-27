@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Anshul140/Leetcode-Repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anshul140/Leetcode-Repo/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshul140/Leetcode-Repo/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anshul140/Leetcode-Repo/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anshul140/Leetcode-Repo/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/3546-equal-sum-grid-partition-i) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Anshul140/Leetcode-Repo/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshul140/Leetcode-Repo/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2050-count-good-numbers](https://github.com/Anshul140/Leetcode-Repo/tree/master/2050-count-good-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Union Find
 |  |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
 | ------- |
