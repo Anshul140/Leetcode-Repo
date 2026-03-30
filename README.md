@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anshul140/Leetcode-Repo/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshul140/Leetcode-Repo/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anshul140/Leetcode-Repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3881-minimize-maximum-component-cost](https://github.com/Anshul140/Leetcode-Repo/tree/master/3881-minimize-maximum-component-cost) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/Anshul140/Leetcode-Repo/tree/master/2573-find-the-string-with-lcp) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anshul140/Leetcode-Repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
