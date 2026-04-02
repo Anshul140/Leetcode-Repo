@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshul140/Leetcode-Repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/Anshul140/Leetcode-Repo/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2573-find-the-string-with-lcp](https://github.com/Anshul140/Leetcode-Repo/tree/master/2573-find-the-string-with-lcp) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshul140/Leetcode-Repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Bit Manipulation
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anshul140/Leetcode-Repo/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Anshul140/Leetcode-Repo/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshul140/Leetcode-Repo/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anshul140/Leetcode-Repo/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Anshul140/Leetcode-Repo/tree/master/3563-select-cells-in-grid-with-maximum-score) |
