@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anshul140/Leetcode-Repo/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anshul140/Leetcode-Repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Anshul140/Leetcode-Repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anshul140/Leetcode-Repo/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2573-find-the-string-with-lcp](https://github.com/Anshul140/Leetcode-Repo/tree/master/2573-find-the-string-with-lcp) |
 | [2577-count-palindromic-subsequences](https://github.com/Anshul140/Leetcode-Repo/tree/master/2577-count-palindromic-subsequences) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Anshul140/Leetcode-Repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Anshul140/Leetcode-Repo/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anshul140/Leetcode-Repo/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
