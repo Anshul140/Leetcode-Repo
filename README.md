@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Anshul140/Leetcode-Repo/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
+| [0874-walking-robot-simulation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0874-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/Anshul140/Leetcode-Repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshul140/Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshul140/Leetcode-Repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Anshul140/Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshul140/Leetcode-Repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshul140/Leetcode-Repo/tree/master/0692-top-k-frequent-words) |
+| [0874-walking-robot-simulation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0874-walking-robot-simulation) |
 | [1694-make-sum-divisible-by-p](https://github.com/Anshul140/Leetcode-Repo/tree/master/1694-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/Anshul140/Leetcode-Repo/tree/master/1980-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshul140/Leetcode-Repo/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anshul140/Leetcode-Repo/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Anshul140/Leetcode-Repo/tree/master/0874-walking-robot-simulation) |
 | [1708-design-parking-system](https://github.com/Anshul140/Leetcode-Repo/tree/master/1708-design-parking-system) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anshul140/Leetcode-Repo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Anshul140/Leetcode-Repo/tree/master/2751-robot-collisions) |
